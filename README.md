@@ -1,2 +1,0 @@
-# Nuclear Magnetic Resonance Spectroscopy
-
